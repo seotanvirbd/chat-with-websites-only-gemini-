@@ -7,7 +7,7 @@
 - **Completely Free to Use**: No subscriptions or fees required.
 - **Deployed on Render.com**: A scalable and user-friendly deployment platform.
 
-![RAG Diagram](docs/HTML-rag-diagram.jpg)
+![RAG Diagram](https://github.com/seotanvirbd/chat-with-websites-only-gemini-/blob/main/Website.jpg)
 
 ## 🚀 **Try it Live!**
 
