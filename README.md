@@ -7,11 +7,11 @@
 - **Completely Free to Use**: No subscriptions or fees required.
 - **Deployed on Render.com**: A scalable and user-friendly deployment platform.
 
----
+![RAG Diagram](docs/HTML-rag-diagram.jpg)
 
 ## 🚀 **Try it Live!**
 
-Visit the live demo of this Q&A system on Render.com: [Try Now](https://render.com/)
+Visit the live demo of this Q&A system on Render.com: [Try Now]([https://render.com/](https://chat-with-websites-only-gemini.onrender.com/))
 
 ---
 
